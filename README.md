@@ -95,9 +95,7 @@ A **full-stack e-commerce application** built with **ASP.NET Core Web API** and 
 
 ## 📦 API Endpoints
 
-**Account**
-
-![account endpoints](/assets/account.png)
+![account endpoints](assets/account.png)
 
 **Basket**
 <br/>
