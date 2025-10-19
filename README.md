@@ -96,19 +96,25 @@ A **full-stack e-commerce application** built with **ASP.NET Core Web API** and 
 ## 📦 API Endpoints
 
 **Account**
+
 ![Account](assets/account.png)
 
 **Basket**
+
 ![Basket](assets/basket.png)
 
 **Delivery Methods**
+
 ![Delivery Methods](assets/delivery.png)
 
 **Orders**
+
 ![Orders](assets/orders.png)
 
 **Payments**
+
 ![Payments](assets/payments.png)
 
 **Products**
+
 ![Products](assets/products.png)
