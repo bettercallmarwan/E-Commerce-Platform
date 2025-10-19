@@ -116,3 +116,23 @@ A **full-stack e-commerce application** built with **ASP.NET Core Web API** and 
 **Products**
 <br/>
 <img src="assets/products.png" width="900"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 📦 API Endpoints
+
+![image alt](https://github.com/bettercallmarwan/E-Commerce-Platform/blob/main/assets/account.png?raw=true)
