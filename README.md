@@ -1,4 +1,4 @@
-# 🛍️ E-Commerce Platform
+# E-Commerce Platform : Scalable Full Stack Web App
 
 A **full-stack e-commerce application** built with **ASP.NET Core Web API** and **Angular**, following **Clean Architecture** principles, It provides a complete shopping workflow — product browsing, cart management, secure checkout, and an admin panel for product and user management.
 
