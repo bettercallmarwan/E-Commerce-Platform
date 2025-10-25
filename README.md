@@ -4,7 +4,7 @@ A **full-stack e-commerce application** built with **ASP.NET Core Web API** and 
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 **Backend**
 - ASP.NET Core 8 Web API (C#)
@@ -27,7 +27,7 @@ A **full-stack e-commerce application** built with **ASP.NET Core Web API** and 
 
 ---
 
-## ✅ Core Features
+## Core Features
 
 - **Authentication & Authorization** using JWT (Admin / User roles)
 - **Product Management** with pagination, filtering, and search
@@ -46,7 +46,7 @@ A **full-stack e-commerce application** built with **ASP.NET Core Web API** and 
 
 ---
 
-## 🧠 Architecture Diagram
+## Architecture Diagram
 
 ```text
 /LinkDev.Talabat.APIs
